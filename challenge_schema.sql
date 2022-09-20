@@ -21,9 +21,14 @@ CREATE TABLE customers_table (
 -- vine table
 CREATE TABLE vine_table (
   review_id TEXT PRIMARY KEY,
-  star_rating INTEGER,
+  star_rating TEXT,
   helpful_votes INTEGER,
   total_votes INTEGER,
   vine TEXT,
   verified_purchase TEXT
 );
+
+SELECT * FROM customers_table;
+SELECT * FROM products_table;
+SELECT * FROM review_id_table;
+SELECT * FROM vine_table;
