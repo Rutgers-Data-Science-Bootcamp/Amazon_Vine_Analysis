@@ -15,7 +15,7 @@ Vine reviews and percentage of 5-star reviews
 non-vine reviews and percentage of 5-star reviews 
 ![Screen Shot 2022-09-20 at 2 20 15 AM](https://user-images.githubusercontent.com/65901034/191182062-4faedf71-8857-4195-9144-f7e005af4a6b.png)
 
-#Summary 
+# Summary 
 57% of the reviews in the Vine program were 5 stars reviews out of 285 total reviews whereas the percentage in the non-Vine reviews is 46% out of 31545 reviews. This demonstrated that a positivity bias for reviews in the Vine program.
 Additionally we could analyse one-way ANNOVA test for 5-star rating for the Vine and non-Vine reviews to see whether the percentage of difference is statistically significant or not.
 
